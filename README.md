@@ -49,4 +49,4 @@ The project contains **three mini-challenges**:
 
 ## How to Run
 1. Install Python 3
-2. Run the program: myfinalproject.py
+2. Run the program: example.py
